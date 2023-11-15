@@ -1,4 +1,5 @@
 // set properties
+// then() is use to make sure that the code is running or excuting in correct order 
 
 require(['baja!', 'dialogs'], (baja, dialogs) => {
   'use strict';
